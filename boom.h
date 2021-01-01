@@ -1,11 +1,11 @@
 #ifndef BOOM_H
 #define BOOM_H
-#include "library.h"
+#include "library2.h"
 #include "lecture.h"
 #include "AVLnode.h"
 #include "AVLtree.h"
 #include "course.h"
-#include "BoomException.h"
+
 
 /* class boom is the primary class.
 boom element contains two AVL trees. one for courses and one for lectures.
